@@ -1,11 +1,29 @@
 body {
-    background-color: bisque;
+  background-color: bisque;
 }
-h1{
- text-align: center;
- 
+h1 {
+  text-align: center;
 }
 
-h3{
-    text-align: center;
+h3 {
+  text-align: center;
+}
+#img-div {
+  margin: 0px;
+  width: 100%;
+  border: 5px solid white;
+  background: #bdbdbd;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#img-caption {
+  margin: 5px;
+  text-align: center;
+}
+#tribute-info {
+  text-align: left;
 }
